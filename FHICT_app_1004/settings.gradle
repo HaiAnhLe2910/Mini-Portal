@@ -1,0 +1,2 @@
+rootProject.name='FHICT_app'
+include ':app'
